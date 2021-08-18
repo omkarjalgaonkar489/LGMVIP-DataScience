@@ -1,1 +1,1 @@
-TASK 2 LGM-VIP Data Science
+TASK 2 LGMVIP-Data Science

@@ -1,2 +1,2 @@
-Intermediate Level Taks
+Intermediate Level Tasks
 LGMVIP-Data Science
